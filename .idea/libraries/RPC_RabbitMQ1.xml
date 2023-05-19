@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="RPC-RabbitMQ1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RPC-RabbitMQ/out/production/RPC-RabbitMQ/amqp-client-5.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RPC-RabbitMQ/out/production/RPC-RabbitMQ/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RPC-RabbitMQ/out/production/RPC-RabbitMQ/slf4j-simple-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
